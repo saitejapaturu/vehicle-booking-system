@@ -1,0 +1,182 @@
+Reg Num:                  REG111
+
+Make:                     Tesla
+
+Year:                     2014
+
+Description:              Deep Blue Sedan
+
+Booking ref:              N/A
+
+
+Reg Num:                  REG222
+
+Make:                     Maserati
+
+Year:                     2017
+
+Description:              Midnight Black
+
+Booking ref:              N/A
+
+
+Reg Num:                  REG333
+
+Make:                     Audi
+
+Year:                     1989
+
+Description:              Cobalt Blue
+
+Booking ref:              REG33313122017
+
+Booking Date:             13/12/2017
+
+Number of Passengers:     2
+
+Fee:                      140.0
+
+
+Reg Num:                  REG444
+
+Make:                     BMW
+
+Year:                     2014
+
+Description:              White Sedan
+
+Booking ref:              REG44419112017
+
+Booking Date:             19/11/2017
+
+Number of Passengers:     4
+
+Fee:                      180.0
+
+
+Reg Num:                  REG555
+
+Make:                     Lexus
+
+Year:                     2007
+
+Description:              Red Sedan
+
+Booking ref:              N/A
+
+
+Category:                 N/A
+
+Weight:                   0.0
+
+Height:                   1.1
+
+
+Reg Num:                  REG666
+
+Make:                     DAF
+
+Year:                     2015
+
+Description:              Reliable Heavy Haul
+
+Booking ref:              N/A
+
+
+Category:                 N/A
+
+Weight:                   0.0
+
+Height:                   2.6
+
+
+Reg Num:                  REG777
+
+Make:                     Venture
+
+Year:                     2016
+
+Description:              Passenger Coach
+
+Booking ref:              N/A
+
+
+Category:                 N/A
+
+Weight:                   0.0
+
+Height:                   2.9
+
+
+Reg Num:                  REG888
+
+Make:                     Tammy
+
+Year:                     1999
+
+Description:              Black Sedan
+
+Booking ref:              REG88813122017
+
+Booking Date:             13/12/2017
+
+Number of Passengers:     3
+
+Fee:                      163.0
+
+
+Category:                 LIGHT
+
+Weight:                   3.3
+
+Height:                   2.4
+
+
+Reg Num:                  REG999
+
+Make:                     Thunder
+
+Year:                     2010
+
+Description:              Heavy Haul
+
+Booking ref:              REG99919112017
+
+Booking Date:             19/11/2017
+
+Number of Passengers:     1
+
+Fee:                      194.0
+
+
+Category:                 MEDIUM
+
+Weight:                   6.7
+
+Height:                   2.8
+
+
+Reg Num:                  REG101
+
+Make:                     Hyper
+
+Year:                     2006
+
+Description:              Superfast Medium
+
+Booking ref:              REG10111072018
+
+Booking Date:             11/07/2018
+
+Number of Passengers:     5
+
+Fee:                      455.0
+
+
+Category:                 HEAVY
+
+Weight:                   8.1
+
+Height:                   2.2
+
+
