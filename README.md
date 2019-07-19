@@ -1,2 +1,2 @@
 # vehicle-booking
-A java program to book vehicles.
+A java program to book and maintain different types of vehicles.
